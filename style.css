@@ -347,9 +347,13 @@ video{
     letter-spacing: 0.1px;
     color: #fff;
 }
-  
+
+.logo-container-footer {
+  text-align: center;
+}
+
 .logo-container-footer img {
-  width: 100%;
+  width: 40%;
 }
   
 h4 {
