@@ -264,8 +264,12 @@ video{
   }
 
   .img-bonus {
-    margin-top: 26px;
+    margin-top: 46px;
     text-align: center;
+  }
+
+  .img-bonus img {
+    width: 85%;
   }
 
   .parrafo-bonus {
