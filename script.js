@@ -11,7 +11,7 @@ function mostrarSiguienteFrase() {
 }
 function comenzarMoverFrase(){
   frases = document.querySelectorAll('.frase');
-  setInterval(mostrarSiguienteFrase, 3000);
+  setInterval(mostrarSiguienteFrase, 5000);
 }
 
 
