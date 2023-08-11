@@ -319,6 +319,10 @@ video{
     text-align: center;
   }
 
+  .foto-david img {
+    max-width: 100%;
+  }
+
   .container-quien_soy {
     display: flex;
     align-items: center;
