@@ -14,7 +14,7 @@ header{
 }
 
 .video-section{
-    background-color: #111111;
+    background-color: #1c2120;
     width: 100%;
     margin: none;
 }
@@ -130,7 +130,7 @@ video{
 }
 
 .proceso {
-  background-color: #111111;
+  background-color: #1c2120;
 }
 .proceso2 {
 
@@ -256,7 +256,7 @@ video{
     margin-top: 26px;
     padding-bottom: 16px;
     border-radius: 20px;
-    background-color: #111;
+    background-color: #1c2120;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -293,7 +293,7 @@ video{
   }
 
   .quien-container {
-    background-color: #111111;
+    background-color: #1c2120;
     width: 100%;
     padding-bottom: 26px;
   }
@@ -354,10 +354,11 @@ video{
 
 .logo-container-footer {
   text-align: center;
+  background-color: #1c2120;
 }
 
 .logo-container-footer img {
-  width: 40%;
+  width: 100%;
 }
   
 h4 {
